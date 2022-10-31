@@ -1,8 +1,8 @@
 # Cuda PSD to HTML
 ## Visit site
+https://szmithu.github.io/Cuda/
 
-
-### Cuda is very popular single page website template
+### Cuda is a very popular single page website template
 
 ## Technologies:
 * HTML5
